@@ -1,14 +1,11 @@
 # SpaceX - Site fictício
 
-Um site fictício da SpaceX, criado para fins de estudo
-das tecnologias HTML, e CSS
-
-## O qué e o projeto
-
 O site fui criado durante o curso "Programador Full Stack Javascript" da onebitcode.
 
-## Principais funcionalidades
+## O qué e o projeto
+Um site fictício da SpaceX, criado para fins de estudo das tecnologias HTML, e CSS, objetivo do site e apresentar a empresa e seus serviços, além de contar com uma área para que o usuário possa contratar os serviços da SpaceX.
 
+## Principais funcionalidades
 
 ### Apresentar a empresa e seus serviços
 Se trata da tela principal do site, onde são apresentados os serviços da empresa, além de falar um pouco da empresa.
