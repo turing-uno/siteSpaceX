@@ -4,11 +4,11 @@ Um site fictício da SpaceX, criado para fins de estudo
 das tecnologias HTML, e CSS
 
 ## O qué e o projeto
-* * *
+
 O site fui criado durante o curso "Programador Full Stack Javascript" da onebitcode.
 
 ## Principais funcionalidades
-* * *
+
 
 ### Apresentar a empresa e seus serviços
 Se trata da tela principal do site, onde são apresentados os serviços da empresa, além de falar um pouco da empresa.
@@ -16,11 +16,11 @@ Se trata da tela principal do site, onde são apresentados os serviços da empre
 ![siteSpaceX](Imagens/siteSpaceXpaginaPrincipal.png)
 
 ## Como Executa-lo
-* * *
+
 Basta clonar o projeto, ou baixar e abrir o arquivo index.html, eu seu navegador.
 
 ## Diário de bordo
-* * *
+
 **Dia 1 - 04/07/2021**
 
 A primeira funcionalidade foi construída, no caso a pagina principal, onde existe uma apresentação da empresa e seus serviços.
