@@ -26,10 +26,14 @@ Para o cabeçalho da página usamos as tags `<header>` e `<nav>`.
 
 A tag `<nav>` foi ultilizada pois nas próximas atualizações o menu principal deve ficar no cabeçalho com a logomarca.
 
-Em seguida foram criadas três seções, usando a tag `<section>` 
+Em seguida foram criadas três seções, usando a tag `<section>`
 
 Sendo que a primeira seção abrange os três primeiros parágrafos do site, a segunda contem uma lista com outros serviços da empresa, e a terceira seção envolve uma tabela de preços.
 
 Para criar a lista usamos a tag `<ul></ul>` criando assim uma lista não ordenada.
 
 E para a tabela usamos a tag `<table>`
+
+**Dia 2 - 14/07/2021**
+
+A pagina spaceship foi criada, ela lista algumas espaçonaves, com imagens e descrição de cada espaçonave
