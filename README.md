@@ -12,6 +12,16 @@ Se trata da tela principal do site, onde são apresentados os serviços da empre
 
 ![siteSpaceX](Imagens/siteSpaceXpaginaPrincipal.png)
 
+### Apresentação das spaceships da empresa
+Nesta tela sera listada todas as spaceships da empresa, com uma descrição detalhada sobre cada uma delas.
+
+![spaceships](Imagens/spaceships.png)
+
+### Formulário para contratação dos serviços da empresa
+Através deste formulário você pode entrar em contato com a empresa e contratar os seus serviços.
+
+![hire_us](Imagens/hire_us.png)
+
 ## Como Executa-lo
 
 Basta clonar o projeto, ou baixar e abrir o arquivo index.html, eu seu navegador.
@@ -37,3 +47,11 @@ E para a tabela usamos a tag `<table>`
 **Dia 2 - 14/07/2021**
 
 A pagina spaceship foi criada, ela lista algumas espaçonaves, com imagens e descrição de cada espaçonave
+
+**Dia 3 - 15/07/2021**
+
+A pagina **Hire Us** foi adicionada, ela possui um formulário para que o usuário possa entrar em contato com a empresa.
+
+O formulário foi criado com inputs do tipo text, search, e o submit, foi durante o desenvolvimento deste formulário que eu usei pela primeira vez a tag datalist, ainda estou estudando essa tag, mas acredito que já entendi seu funcionamento.
+
+A tag datalist tras uma lista de opções possíveis para os valores de outros controles (inputs)
